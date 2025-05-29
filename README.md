@@ -32,7 +32,7 @@ This project focuses on building a statistical language model for the Balochi la
 ```bash
 git clone https://github.com/SharanBashir/Next_WordPrediction_Balochi_NLP.git
 cd Next_WordPrediction_Balochi_NLP
-python next_word_prediction.pycd
+python next_word_prediction.py
 ```
 
 ### Run the Script:
