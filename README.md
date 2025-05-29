@@ -4,7 +4,7 @@ This project focuses on building a statistical language model for the Balochi la
 
 ---
 
-## 📂 Files in the Repository
+## Files in the Repository
 
 * `balochi.txt`: The cleaned Balochi language corpus.
 * `next_word_prediction.py`: Python script for building the N-gram model and performing prediction.
@@ -13,7 +13,7 @@ This project focuses on building a statistical language model for the Balochi la
 
 ---
 
-## 🚀 Features
+## Features
 
 * Tokenization and N-gram generation (up to 4-grams)
 * Text cleaning and padding
@@ -25,7 +25,7 @@ This project focuses on building a statistical language model for the Balochi la
 
 ---
 
-## 🔍 How to Use
+## How to Use
 
 ### Clone the Repo:
 
@@ -52,13 +52,13 @@ sorted(model.counts[input_text].most_common(3))
 
 ---
 
-## 🌎 Dataset
+## Dataset
 
 The dataset used is a manually cleaned Balochi text corpus, with sentences separated by the "یے" punctuation mark.
 
 ---
 
-## 🔧 Libraries Used
+## Libraries Used
 
 * `nltk` (language modeling)
 * `pandas`, `numpy` (data handling)
@@ -68,7 +68,7 @@ The dataset used is a manually cleaned Balochi text corpus, with sentences separ
 
 ---
 
-## 🏆 Results
+## Results
 
 * Trained model vocabulary: \~10,000 tokens
 * Perplexity evaluated on test data
@@ -76,13 +76,13 @@ The dataset used is a manually cleaned Balochi text corpus, with sentences separ
 
 ---
 
-## 📅 Author
+## Author
 
 Sharan Bashir
 Final Year PG Research Project, Balochi Language Processing
 
 ---
 
-## 👁️ License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
