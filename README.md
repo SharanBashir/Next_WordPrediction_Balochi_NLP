@@ -54,7 +54,7 @@ sorted(model.counts[input_text].most_common(3))
 
 ## Dataset
 
-The dataset used is a manually cleaned Balochi text corpus, with sentences separated by the "یے" punctuation mark.
+The dataset used is a manually cleaned Balochi text corpus, with sentences separated by the "۔" punctuation mark.
 
 ---
 
